@@ -4,7 +4,7 @@ set -e
 
 read -p "During this early stage of Betanet the Shardeum team will be collecting some performance and debugging info from your node to help improve future versions of the software.
 This is only temporary and will be discontinued as we get closer to mainnet.
-Thanks for running a node and helping to make Shardeum better.
+Thanks for running a node and helping to make Shardeum better."
 
 
 # Check all things that will be needed for this script to succeed like access to docker and docker-compose
