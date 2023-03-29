@@ -110,7 +110,7 @@ EOF
 
 RUNDASHBOARD="y"
 
-NODEHOME="~/.shardeum"
+NODEHOME="/home/ubuntu/.shardeum"
 
 APPSEEDLIST="archiver-sphinx.shardeum.org"
 APPMONITOR="monitor-sphinx.shardeum.org"
